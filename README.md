@@ -1,12 +1,12 @@
-Hi, I’m Andrew
+# Welcome!
 
-Data enthusiast, Python developer, and history geek.
+I’m Andrew, data enthusiast, Python developer, and history geek.
 
-Route Weather
+# Route Weather
 - Flask webapp to get the weather along your drive - Know when the weather will hit before you leave!
 - Try it - https://adeilertson.pythonanywhere.com/
 
-Monaco Generations
+# Monaco Generations
 - What happens if you line up 300 Formula 1 cars from every Monaco GP since 1950? Chaos and fun.
 - Tableau viz of the full results
   - https://public.tableau.com/views/MonacoGenerations/FullGridPosChanges?:language=enUS&publish=yes&:display_count=n&:origin=viz_share_link
