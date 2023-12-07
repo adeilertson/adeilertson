@@ -10,5 +10,5 @@ I’m Andrew, data enthusiast, Python developer, and history geek.
 - What happens if you line up 300 Formula 1 cars from every Monaco GP since 1950? Chaos and fun.
 - Tableau viz of the full results
   - https://public.tableau.com/views/MonacoGenerations/FullGridPosChanges?:language=enUS&publish=yes&:display_count=n&:origin=viz_share_link
-- Binder link to run/edit/play it for yourself
+- Binder link to run/edit/play with it yourself
   - https://mybinder.org/v2/gh/adeilertson/monaco_generations/main?labpath=Monaco%20Generations%20Race%20Sim.ipynb
